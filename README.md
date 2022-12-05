@@ -22,7 +22,7 @@ Die Qualität Ihres Codes fließt in die Gesamtnote mit ein: Nutzen Sie Decompos
 Verwenden Sie sinnvolle Bezeichner für Variablen und Methoden und kommentieren Sie ausreichend.
 Beachten Sie dazu die Kriterien für guten und schlechten Code, die in der Vorlesung erwähnt wurden.
 
-Sollten Sie Fragen haben oder Hilfe brauchen, können Sie im Discord unter der Kategorie Support in den Channel Studienleistung uns eine Nachricht hinterlassen.
+Sollten Sie Fragen haben oder Hilfe brauchen, können Sie im Discord uns eine Nachricht hinterlassen.
 Wir stehen Ihnen dann zeitnah zur Seite über eine Direktnachricht.
 
 # Falling Snow
