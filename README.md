@@ -53,7 +53,7 @@ GRID_HEIGHT = CANVAS_HEIGHT / 4;
 * Verwenden Sie die Klasse `Rectangle` ([Dokumentation der Klasse Rectangle](https://oop-regensburg.github.io/GraphicsApp-Reborn-Library/html/classde_1_1ur_1_1mi_1_1oop_1_1graphics_1_1_rectangle.html)) für eine Schneeflocke und berechnen Sie Breite, Höhe und Position einer Schneeflocke anhand des Grids.  
 * Einmal pro Aufruf der `draw`-Methode kann eine Schneeflocke entweder um -1, 0 oder +1 die Spalte wechseln, wenn diese nach unten fällt (die Zeile nach unten wechselt) und die Spalte in der neuen Zeile noch nicht belegt ist
   
-  ![Falling Snow](./docs/movement_directions.png)
+  ![Möglichkeiten für Richtungen, in die eine Schneeflocke fallen kann](./docs/movement_directions.png)
   
   * `Schneeflocke 1` kann demnach eine Spalte nach links (-1 Spalte in der neuen Reihe), nach rechts (+1 Spalte in der neuen Reihe) oder gerade (gleiche Spalte in der neuen Reihe) nach unten fallen (gelbe Markierung im Bild)
   * `Schneeflocke 2` liegt am linken Rand der Zeichenfläche (Canvas) und kann demnach nicht nach links fallen und deswegen nur nach rechts (+1 Spalte in der neuen Reihe) oder gerade (gleiche Spalte in der neuen Reihe) nach unten fallen (blaue Markierung im Bild) 
