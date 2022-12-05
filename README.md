@@ -40,7 +40,7 @@ Sie implementieren ausgehend von einer "leeren" *GraphicsApp* die Schneefallsimu
 Folgende Anforderungen muss die Schneefallsimulation in Pixel-Art erfüllen:
 
 * Die Klasse `FallingSnowApp` muss als Einstiegspunkt in Ihr Programm verwendet werde, alle andere Logik soll auf sinnvolle Klasse aufgteilt werden
-* Die Darstellung des Schneefalls soll in einem Grid aus `x` (z.B. 200) Spalten und Zeilen bestehen, dass Sie selber erstellen, welche abhängig von den Dimensionen des Canvas berechnet werden
+* Die Darstellung des Schneefalls soll in einem Grid aus `x` (z.B. 200) Spalten und Zeilen bestehen, dass Sie selber erstellen, welche abhängig von den Dimensionen des Canvas berechnet werden, z.B. wie folgt:
 
 ```java
 CANVAS_WIDTH = 800; 
